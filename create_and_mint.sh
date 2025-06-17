@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 set -e
-#!/usr/bin/env bash
-set -e
 
 # Keypair paths (edit these to your real files):
 KEY1=~/keys/you1.json
